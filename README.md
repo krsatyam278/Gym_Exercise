@@ -3,6 +3,7 @@
 
 #### The platform gives users access to 1000+ exercises, organized by muscle group. Users can select categories and specific muscle groups to browse more than 1000 exercises.
 </br>
+#### Each exercise is accompanied by an info page that contains detailed information about the exercise, related videos found on YouTube, a display of similar exercises and a similar equipment exercise for each individual exercise.
 
 ---
 ## Built Using 
